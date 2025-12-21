@@ -8,7 +8,7 @@ This repository contains comprehensive study notes and practical code examples f
 **Target Audience**: Developers and IT professionals transitioning into AI/ML roles
 
 **Key Focus Areas**:
-- 🤖 Transformer Fundamentals, Generative AI fundamentals and applications
+- 🤖 Transformer Fundamentals, Understanding NLP, Generative AI fundamentals and applications
 - 🛠️ Hands-on AWS service implementation
 - 💻 Production-ready code examples
 - 📊 Real-world use cases and architectures
