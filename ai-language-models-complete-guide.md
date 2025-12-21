@@ -1,6 +1,4 @@
-# Understanding AI Language Models: A Complete Beginner's Guide
-
-> Learn how AI understands and generates language — from Transformers to building your own chatbot. Explained in plain English with everyday examples.
+# Understanding NLP: A Beginner's Guide
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
@@ -9,27 +7,13 @@
 
 ## Table of Contents
 
-### Part 1: Foundation Concepts
-- [What Problem Are We Solving?](#what-problem-are-we-solving)
-- [Building Blocks: Words to Numbers](#building-blocks-words-to-numbers)
-  - [What is a Vector?](#what-is-a-vector)
-  - [What is an Embedding?](#what-is-an-embedding)
-
-### Part 2: Transformers
-- [What is a Transformer?](#what-is-a-transformer)
-- [How Transformers Work](#how-transformers-work)
-- [Encoder: The Reader](#encoder-the-reader)
-- [Decoder: The Writer](#decoder-the-writer)
-- [BERT: A Famous Transformer](#bert-a-famous-transformer)
-- [Different Types of Transformers](#different-types-of-transformers)
-
-### Part 3: NLP, NLU, and NLG
+### Part 1: NLP, NLU, and NLG
 - [NLP — Natural Language Processing](#nlp--natural-language-processing)
 - [NLU — Natural Language Understanding](#nlu--natural-language-understanding)
 - [NLG — Natural Language Generation](#nlg--natural-language-generation)
 - [How They Work Together](#how-they-work-together-in-a-chatbot)
 
-### Part 4: Building a Chatbot
+### Part 2: Building a Chatbot
 - [Phase 1: Planning & Design](#phase-1-planning--design)
 - [Phase 2: Data Preparation](#phase-2-data-preparation)
 - [Phase 3: Building the Chatbot](#phase-3-building-the-chatbot)
