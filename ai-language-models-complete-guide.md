@@ -494,12 +494,6 @@ Continuous improvement cycle:
 
 | Term | Simple Explanation | Everyday Analogy |
 |------|-------------------|------------------|
-| **Vector** | A list of numbers | GPS coordinates |
-| **Embedding** | A word as numbers | A word's "address" in meaning-land |
-| **Token** | A piece of text | Puzzle pieces of a sentence |
-| **Attention** | Deciding which words matter | Highlighting while reading |
-| **Encoder** | Reads and understands | A reader taking notes |
-| **Decoder** | Writes output | A writer using notes |
 | **NLP** | All language + computers | "Language Skills" on a resume |
 | **NLU** | Understanding meaning | A good listener |
 | **NLG** | Creating responses | A skilled writer |
