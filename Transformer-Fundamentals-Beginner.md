@@ -1,4 +1,4 @@
-# Understanding Transformers: A Beginner's Guide
+# Understanding Transformers: A Starter Guide
 
 > Learn how AI language models like ChatGPT and Claude actually work — explained in plain English with everyday examples.
 
