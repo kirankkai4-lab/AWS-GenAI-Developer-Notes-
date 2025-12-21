@@ -3,7 +3,7 @@ AWS Generative AI for Developers: 30-day study guide covering Fundamentals, Bedr
 
 ## 📚 About This Repository
 
-This repository contains comprehensive study notes and practical code examples for developers. The focus is on **Generative AI using AWS services** including Amazon Bedrock, SageMaker, and specialized AI services.
+This repository compiles curated study notes and practical code examples designed to help developers ramp up in Generative AI. The content centers on **AWS Services**—Amazon Bedrock, SageMaker, and related AI services—providing a clear, developer‑friendly learning path.
 
 **Target Audience**: Developers and IT professionals transitioning into Generative AI roles
 
