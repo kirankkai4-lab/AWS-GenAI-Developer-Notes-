@@ -348,37 +348,37 @@ Step 7: Done!
 
 ```
 ┌─────────────────────────────────────────────────────────┐
-│                                                          │
-│   YOUR INPUT                                             │
+│                                                         │
+│   YOUR INPUT                                            │
 │   "Translate: Hello, how are you?"                      │
-│                    │                                     │
-│                    ▼                                     │
+│                    │                                    │
+│                    ▼                                    │
 │   ┌──────────────────────────────────┐                  │
-│   │           ENCODER                 │                  │
-│   │                                   │                  │
-│   │   Reads everything at once        │                  │
-│   │   Understands it's a greeting     │                  │
-│   │   Knows it needs French output    │                  │
-│   │                                   │                  │
+│   │           ENCODER                 │                 │
+│   │                                   │                 │
+│   │   Reads everything at once        │                 │
+│   │   Understands it's a greeting     │                 │
+│   │   Knows it needs French output    │                 │
+│   │                                   │                 │
 │   └──────────────────────────────────┘                  │
-│                    │                                     │
-│                    │ (passes understanding)              │
-│                    ▼                                     │
+│                    │                                    │
+│                    │ (passes understanding)             │
+│                    ▼                                    │
 │   ┌──────────────────────────────────┐                  │
-│   │           DECODER                 │                  │
-│   │                                   │                  │
+│   │           DECODER                 │                 │
+│   │                                   │                 │
 │   │   Step 1: "Bonjour"              │                  │
 │   │   Step 2: "Bonjour,"             │                  │
 │   │   Step 3: "Bonjour, comment"     │                  │
 │   │   Step 4: "Bonjour, comment"     │                  │
 │   │           "allez-vous?"          │                  │
-│   │                                   │                  │
+│   │                                   │                 │
 │   └──────────────────────────────────┘                  │
-│                    │                                     │
-│                    ▼                                     │
-│   OUTPUT                                                 │
+│                    │                                    │
+│                    ▼                                    │
+│   OUTPUT                                                │
 │   "Bonjour, comment allez-vous?"                        │
-│                                                          │
+│                                                         │
 └─────────────────────────────────────────────────────────┘
 ```
 
@@ -640,22 +640,12 @@ You can now understand:
 
 ---
 
-## Want to Learn More?
-
-Here are some beginner-friendly resources:
-
-1. **[The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)** - Visual explanations
-2. **[BERT Explained Simply](https://jalammar.github.io/illustrated-bert/)** - Visual BERT guide
-3. **[3Blue1Brown Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)** - YouTube series on the basics
-
----
-
 ## Contributing
 
 Found something confusing? Have a simpler way to explain something? Contributions are welcome!
 
 ---
 
-*Written for beginners, by someone who remembers being confused too.*
+*Written for beginners, by a beginner who remembers being confused too.*
 
 *Last updated: December 2024*
