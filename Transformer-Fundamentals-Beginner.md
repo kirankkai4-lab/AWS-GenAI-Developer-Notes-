@@ -112,7 +112,7 @@ That's it! Nothing scary.
 
 **Analogy: GPS Coordinates**
 
-When you tell a friend to meet you at "Starbucks on Main Street," they understand. But your phone's GPS doesn't understand words. It needs numbers like:
+When you tell a friend to meet you at "Coffee Shop on Main Street," they understand. But your phone's GPS doesn't understand words. It needs numbers like:
 
 ```
 Latitude: 41.5868
