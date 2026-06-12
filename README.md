@@ -94,8 +94,11 @@ before use in production or exam preparation.
 - 🆕 [AWS What's New](https://aws.amazon.com/new/)
 - 📝 [AWS AI/ML Blog](https://aws.amazon.com/blogs/machine-learning/)
 
-This repository is **not affiliated with, endorsed by, or officially associated with Amazon Web Services**. All AWS product names and trademarks are the property of Amazon.com, Inc. or its affiliates.
-
+This repository is an independent study guide created for educational
+purposes and is not affiliated with, endorsed by, or officially
+associated with Amazon Web Services (AWS). All AWS product names,
+service names, and trademarks are the property of Amazon.com, Inc.
+or its affiliates.
 ---
 
 ## 📄 License
