@@ -1,5 +1,5 @@
 # Generative AI for Developers in AWS
-AWS Generative AI for Developers: 30-day study guide covering Fundamentals, Bedrock, SageMaker, and AI services with code examples
+AWS Generative AI for Developers: study guide covering Fundamentals, Bedrock, SageMaker, and AI services with code examples
 
 ## 📚 About This Repository
 
