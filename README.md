@@ -82,11 +82,12 @@ Please keep the same style — plain English, analogies, diagrams where helpful,
 
 ## ⚠️ Disclaimer
 
-The information in this repository was accurate at the time of writing
+The information in this repository is for educational purpose was accurate at the time of writing
 but is subject to change without notice. AWS and other tools mentioned
-in this guide regularly release new models, update APIs, and adjust
+in this guide regularly release new models, update APIs, change the documentation and adjust
 pricing. Always verify the latest details using official documentation
-before use in production or exam preparation.
+before use in production or exam preparation.  All product names, service names, and trademarks are the property 
+of respective companies / organizations
 
 **Always verify current information using official AWS resources:**
 - 📖 [AWS Documentation](https://docs.aws.amazon.com)
@@ -94,11 +95,6 @@ before use in production or exam preparation.
 - 🆕 [AWS What's New](https://aws.amazon.com/new/)
 - 📝 [AWS AI/ML Blog](https://aws.amazon.com/blogs/machine-learning/)
 
-This repository is an independent study guide created for educational
-purposes and is not affiliated with, endorsed by, or officially
-associated with Amazon Web Services (AWS). All AWS product names,
-service names, and trademarks are the property of Amazon.com, Inc.
-or its affiliates.
 ---
 
 ## 📄 License
