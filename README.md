@@ -23,8 +23,7 @@ This repository compiles curated study notes and practical code examples designe
 - ☁️ AWS GenAI services (Bedrock, SageMaker, Titan, Kendra, Comprehend, Rekognition)
 - 🔍 Practical patterns (RAG, Agentic AI, Fine-Tuning)
 - 🛡️ Responsible AI, security, and evaluation
-- 💻 Production-ready Python code examples
-- 🎯 Exam preparation for AWS AI/ML certifications
+
 
 ---
 
@@ -53,30 +52,6 @@ This repository compiles curated study notes and practical code examples designe
 
 ### 🛡️ Responsible AI -->  In Progress
 
-
-## 🗺️ Learning Path
-
-If you're starting from scratch, follow this order:
-
-```
-Week 1 — Foundations
-  └── Transformer Fundamentals
-  └── Understanding NLP
-
-Week 2 — AWS Services
-  └── AWS AI/ML Services Overview
-
-Week 3 — Practical Patterns
-  └── RAG: Retrieval-Augmented Generation
-  └── Fine-Tuning & Model Customization
-  └── Agentic AI Frameworks
-
-Week 4 — Production & Responsibility
-  └── Responsible AI & Security
-  └── Review all + practice exam questions
-```
-
----
 
 ## 🚀 What Makes This Different?
 
