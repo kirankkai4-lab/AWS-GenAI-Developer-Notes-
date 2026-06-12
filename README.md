@@ -82,7 +82,11 @@ Please keep the same style — plain English, analogies, diagrams where helpful,
 
 ## ⚠️ Disclaimer
 
-The information in this repository was accurate at the time of writing but is subject to change. AWS frequently releases new models, updates APIs, and adjusts pricing.
+The information in this repository was accurate at the time of writing
+but is subject to change without notice. AWS and other tools mentioned
+in this guide regularly release new models, update APIs, and adjust
+pricing. Always verify the latest details using official documentation
+before use in production or exam preparation.
 
 **Always verify current information using official AWS resources:**
 - 📖 [AWS Documentation](https://docs.aws.amazon.com)
