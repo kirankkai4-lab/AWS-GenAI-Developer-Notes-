@@ -1,6 +1,6 @@
 # 🤖 Generative AI for Developers on AWS
 
-> AWS Generative AI for Developers: A practical study guide covering Transformer Fundamentals, NLP, Agentic AI Frameworks, Amazon Bedrock, SageMaker, RAG, Fine-Tuning, Responsible AI, and more — with code examples, diagrams, and real-world use cases.
+> AWS Generative AI for Developers: A practical study guide covering Transformer Fundamentals, NLP, Agentic AI Frameworks, Amazon Bedrock, SageMaker, RAG, Fine-Tuning, Responsible AI,  diagrams, and real-world use cases.
 
 ---
 
