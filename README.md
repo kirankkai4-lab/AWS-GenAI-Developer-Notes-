@@ -67,18 +67,6 @@ Unlike theory-only guides, this repository emphasises:
 
 ---
 
-## 🎯 Exam Preparation
-
-This guide is particularly useful for:
-
-- **AWS Certified Machine Learning – Specialty**
-- **AWS Certified AI Practitioner**
-- **AWS Certified Developer – Associate** (AI/ML topics)
-
-Each file includes an **Exam Tips** section at the end highlighting the key points most likely to appear on assessments.
-
----
-
 ## 🤝 Contributing
 
 Found something out of date? Have a clearer explanation? Contributions are welcome!
