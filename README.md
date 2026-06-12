@@ -51,13 +51,8 @@ This repository compiles curated study notes and practical code examples designe
 | [Fine-Tuning-Model-Customization.md](Fine-Tuning-Model-Customization.md) | When to fine-tune vs RAG vs prompting, continued pre-training, instruction fine-tuning, LoRA/PEFT, RLHF explained, Bedrock custom model workflows |
 | [Agentic AI](Agentic%20AI) | LangGraph, AutoGen, CrewAI, Model Context Protocol (MCP), multi-agent patterns, framework selection guide |
 
-### 🛡️ Responsible AI
+### 🛡️ Responsible AI -->  In Progress
 
-| File | Topics Covered |
-|------|---------------|
-| [Responsible-AI-Security.md](Responsible-AI-Security.md) | Bias types & mitigation, fairness metrics, Amazon Bedrock Guardrails, data privacy (GDPR/HIPAA), AI security threats (prompt injection, jailbreaking), BLEU/ROUGE/BERTScore evaluation metrics |
-
----
 
 ## 🗺️ Learning Path
 
