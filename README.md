@@ -14,7 +14,7 @@
 
 ## 📚 About This Repository
 
-This repository compiles curated study notes and practical code examples designed to help developers ramp up in Generative AI. The content centres on **AWS Services** — Amazon Bedrock, SageMaker, and related AI services — providing a clear, developer-friendly learning path from the ground up.
+This repository compiles curated study notes designed to help developers ramp up in Generative AI. The content centres on **AWS Services** — Amazon Bedrock, SageMaker, and related AI services — providing a clear, developer-friendly learning path from the ground up.
 
 **Target Audience:** Developers and IT professionals transitioning into Generative AI roles
 
