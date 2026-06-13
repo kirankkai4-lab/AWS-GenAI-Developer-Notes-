@@ -33,22 +33,22 @@ This repository compiles curated study notes designed to help developers ramp up
 
 | File | Topics Covered |
 |------|---------------|
-| [Transformer-Fundamentals-Beginner.md](Transformer-Fundamentals-Beginner.md) | What transformers are, tokens, embeddings, vectors, attention (Q/K/V), encoder vs decoder, BERT vs GPT |
-| [Understanding NLP.md](Understanding%20NLP.md) | NLP vs NLU vs NLG, intent detection, entity extraction, sentiment analysis, how to build a chatbot step-by-step |
+| [Transformer-Fundamentals-Beginner.md](./Fundamentals/Transformer-Fundamentals-Beginner.md) | What transformers are, tokens, embeddings, vectors, attention (Q/K/V), encoder vs decoder, BERT vs GPT |
+| [Understanding NLP.md](./Fundamentals/Understanding%20NLP.md) | NLP vs NLU vs NLG, intent detection, entity extraction, sentiment analysis, how to build a chatbot step-by-step |
 
 ### ☁️ AWS AI/ML Services
 
 | File | Topics Covered |
 |------|---------------|
-| [AWS-AI-ML-Services-Overview.md](AWS-AI-ML-Services-Overview.md) | Amazon Bedrock (model IDs, invocation, pricing tiers), AWS Titan models, Amazon SageMaker (training, endpoints, JumpStart), Amazon Q, Kendra, Comprehend, Rekognition |
+| [AWS-AI-ML-Services-Overview.md](./Working on AWS/AWS-AI-ML-Services-Overview.md) | Amazon Bedrock (model IDs, invocation, pricing tiers), AWS Titan models, Amazon SageMaker (training, endpoints, JumpStart), Amazon Q, Kendra, Comprehend, Rekognition |
 
 ### 🔧 Practical Patterns
 
 | File | Topics Covered |
 |------|---------------|
-| [RAG-Retrieval-Augmented-Generation.md](RAG-Retrieval-Augmented-Generation.md) | Why RAG exists, indexing & retrieval pipelines, vector databases (OpenSearch, pgvector, Pinecone), chunking strategies, Bedrock Knowledge Bases with Python code |
-| [Fine-Tuning-Model-Customization.md](Fine-Tuning-Model-Customization.md) | When to fine-tune vs RAG vs prompting, continued pre-training, instruction fine-tuning, LoRA/PEFT, RLHF explained, Bedrock custom model workflows |
-| [Agentic AI](Agentic%20AI) | LangGraph, AutoGen, CrewAI, Model Context Protocol (MCP), multi-agent patterns, framework selection guide |
+| [RAG-Retrieval-Augmented-Generation.md](./AI/RAG-Retrieval-Augmented-Generation.md) | Why RAG exists, indexing & retrieval pipelines, vector databases (OpenSearch, pgvector, Pinecone), chunking strategies, Bedrock Knowledge Bases with Python code |
+| [Fine-Tuning-Model-Customization.md](./AIFine-Tuning-Model-Customization.md) | When to fine-tune vs RAG vs prompting, continued pre-training, instruction fine-tuning, LoRA/PEFT, RLHF explained, Bedrock custom model workflows |
+| [Agentic AI](./AI/Agentic%20AI) | LangGraph, AutoGen, CrewAI, Model Context Protocol (MCP), multi-agent patterns, framework selection guide |
 
 ### 🛡️ Responsible AI -->  In Progress
 
