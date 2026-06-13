@@ -40,7 +40,7 @@ This repository compiles curated study notes designed to help developers ramp up
 
 | File | Topics Covered |
 |------|---------------|
-| [AWS-AI-ML-Services-Overview.md](./Working on AWS/AWS-AI-ML-Services-Overview.md) | Amazon Bedrock (model IDs, invocation, pricing tiers), AWS Titan models, Amazon SageMaker (training, endpoints, JumpStart), Amazon Q, Kendra, Comprehend, Rekognition |
+| [AWS-AI-ML-Services-Overview.md](AWS-AI-ML-Services-Overview.md) | Amazon Bedrock (model IDs, invocation, pricing tiers), AWS Titan models, Amazon SageMaker (training, endpoints, JumpStart), Amazon Q, Kendra, Comprehend, Rekognition |
 
 ### 🔧 Practical Patterns
 
